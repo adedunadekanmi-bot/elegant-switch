@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Elegant Stitches by Aisha</title>
+  <style>
+    body {
+      text-align: center;
+      background: linear-gradient(to bottom, #ff9a9e, #fecfef);
+      font-family: Arial;
+      padding: 40px 20px;
+    }
+    h1 { 
+      color: #6a0dad; 
+      font-size: 32px;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+      margin: 20px 0;
+    }
+    button { 
+      padding: 15px 30px; 
+      font-size: 18px; 
+      background: #6a0dad; 
+      color: white; 
+      border: none; 
+      border-radius: 10px;
+      cursor: pointer;
+    }
+    img {
+      border-radius: 50%; 
+      width: 180px; 
+      height: 180px;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>Elegant Stitches by Aisha</h1>
+  
+  <img src="https://i.imgur.com/8Km9tLL.jpg" alt="Tailor work">
+  
+  <p>Custom Ankara, Gowns & Wedding Dresses | Lagos</p>
+  
+  <button onclick="alert('WhatsApp us: 09151437773')">Book Fitting</button>
+</body>
+</html>
